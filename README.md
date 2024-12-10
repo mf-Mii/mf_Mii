@@ -9,7 +9,7 @@
 
 - All of my projects are available at [https://www.mfmii.work/](https://www.mfmii.work/)
 
-- Contacts **contact@mfmii.work**
+- Contacts [**__contact@mfmii.work__**](mailto:contact@mfmii.work) or [**__Contact Form__**](https://www.mfmii.work/contact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mf-mii&show_icons=true&locale=en&layout=compact" alt="mf-mii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mf-mii&show_icons=true&locale=en" alt="mf-mii" /></p>
-
+<!-- Not Available
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mf-mii&" alt="mf-mii" /></p>
-
+-->
 <img src="https://discord.c99.nl/widget/theme-1/653141958490849280.png">
